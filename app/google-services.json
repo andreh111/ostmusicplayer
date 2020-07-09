@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "851473111230",
+    "firebase_url": "https://ost-show.firebaseio.com",
+    "project_id": "ost-show",
+    "storage_bucket": "ost-show.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851473111230:android:22aaa279cc415b78",
+        "android_client_info": {
+          "package_name": "com.store.anime.ostshow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851473111230-dsu8u9fq5c396357bvsmmlfvj20bvfsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.store.anime.ostshow",
+            "certificate_hash": "36f910884ca970d44ed14c16faf8f80da00ef103"
+          }
+        },
+        {
+          "client_id": "851473111230-vej0sfngn46uff204ni0g3rkochktqaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTSRHpQVpx3nbQwACGUUpmPO7JS0XdYXA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851473111230-vej0sfngn46uff204ni0g3rkochktqaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

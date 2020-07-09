@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nour Music</string>
+    <string name="title_barcode">QR Scanner</string>
+    <string name="title_savedost">Songs</string>
+    <string name="title_help">Help</string>
+    <string name="title_about">About Us</string>
+    <string name="image">Thumbnail</string>
+    <string name="action_settings">Pause Music</string>
+</resources>
